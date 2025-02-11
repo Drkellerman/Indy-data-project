@@ -66,11 +66,11 @@ pd.set_option('display.max_rows', None)
 Indy_PopData2015
 pd.read_csv ("Indy_PopData2015.csv")
 
-Indy_PopMigration =pd.read_csv("Indy_PopMigration.csv")
+Indy_PopMigration2 =pd.read_csv("Indy_PopMigration2.csv")
 
 pd.set_option('display.max_rows', None)
-Indy_PopMigration
-pd.read_csv ("Indy_PopMigration.csv")
+Indy_PopMigration2
+pd.read_csv ("Indy_PopMigration2.csv")
 
 
 
