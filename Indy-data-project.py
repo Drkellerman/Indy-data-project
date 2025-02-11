@@ -6,11 +6,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-Indy_EconData= pd.read_csv("Indy_EconData.csv")
+Indy_EconData2= pd.read_csv("Indy_EconData2.csv")
 
 pd.set_option('display.max_rows', None)
-Indy_EconData
-pd.read_csv ("Indy_EconData.csv")
+Indy_EconData2
+pd.read_csv ("Indy_EconData2.csv")
 
 Indy_PopData2023 =pd.read_csv("Indy_PopData2023.csv")
 
