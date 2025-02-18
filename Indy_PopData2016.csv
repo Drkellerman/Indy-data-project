@@ -1,0 +1,65 @@
+﻿Label (Grouping),"Indianapolis city (balance), Indiana!!Total Civilian Noninstitutionalized Population!!Estimate","Indianapolis city (balance), Indiana!!Total Civilian Noninstitutionalized Population!!Margin of Error","Indianapolis city (balance), Indiana!!With a Disability!!Estimate","Indianapolis city (balance), Indiana!!With a Disability!!Margin of Error","Indianapolis city (balance), Indiana!!No Disability!!Estimate","Indianapolis city (balance), Indiana!!No Disability!!Margin of Error"
+Population Age 16 and Over,"652,124","±4,343","105,553","±5,129","546,571","±6,363"
+EMPLOYMENT STATUS,,,,,,
+    Employed,63.70%,±0.9,26.30%,±2.1,71.00%,±0.9
+    Not in Labor Force,32.30%,±0.8,68.30%,±2.3,25.30%,±0.8
+Employed Population Age 16 and Over,"415,535","±6,303","27,721","±2,740","387,814","±6,814"
+CLASS OF WORKER,,,,,,
+    Private for-profit wage and salary workers,77.00%,±1.2,72.60%,±4.9,77.30%,±1.2
+    Employee of private company workers,74.50%,±1.2,69.00%,±5.2,74.90%,±1.2
+    Self-employed in own incorporated business workers,2.50%,±0.4,3.50%,±2.1,2.40%,±0.4
+    Private not-for-profit wage and salary workers,9.40%,±0.8,10.00%,±3.1,9.40%,±0.8
+    Local government workers,4.50%,±0.7,4.90%,±2.1,4.50%,±0.7
+    State government workers,3.20%,±0.4,5.00%,±2.1,3.10%,±0.4
+    Federal government workers,1.60%,±0.3,4.00%,±1.8,1.50%,±0.3
+    Self-employed in own not incorporated business workers,4.10%,±0.5,3.60%,±1.7,4.20%,±0.6
+    Unpaid family workers,0.10%,±0.1,0.00%,±0.5,0.10%,±0.1
+OCCUPATION,,,,,,
+"    Management, business, science, and arts occupations",34.60%,±1.6,25.90%,±5.1,35.30%,±1.6
+    Service occupations,17.60%,±1.3,22.40%,±5.3,17.30%,±1.2
+    Sales and office occupations,26.30%,±1.3,26.00%,±4.6,26.30%,±1.3
+"    Natural resources, construction, and maintenance occupations",6.30%,±0.7,6.90%,±2.8,6.30%,±0.7
+"    Production, transportation, and material moving occupations",15.10%,±1.0,18.80%,±3.8,14.90%,±1.0
+INDUSTRY,,,,,,
+"    Agriculture, forestry, fishing and hunting, and mining",0.10%,±0.1,0.00%,±0.5,0.10%,±0.1
+    Construction,5.30%,±0.7,5.90%,±2.4,5.30%,±0.7
+    Manufacturing,10.50%,±0.8,9.70%,±3.3,10.50%,±0.9
+    Wholesale trade,3.60%,±0.5,4.20%,±2.2,3.60%,±0.5
+    Retail trade,12.20%,±1.0,9.40%,±2.5,12.40%,±1.0
+"    Transportation and warehousing, and utilities",7.70%,±0.8,7.30%,±2.8,7.80%,±0.9
+    Information,1.50%,±0.3,2.30%,±1.3,1.40%,±0.3
+"    Finance and insurance, and real estate and rental and leasing",7.20%,±0.7,8.00%,±3.7,7.10%,±0.7
+"    Professional, scientific, and management, and administrative and waste management services",11.20%,±0.8,9.10%,±2.6,11.40%,±0.9
+"    Educational services, and health care and social assistance",22.70%,±1.2,25.50%,±4.1,22.50%,±1.2
+"    Arts, entertainment, and recreation, and accommodation and food services",10.00%,±1.1,10.90%,±4.4,10.00%,±1.0
+    Other services (except public administration),4.20%,±0.5,3.80%,±1.9,4.20%,±0.5
+    Public administration,3.60%,±0.5,3.80%,±2.0,3.60%,±0.5
+COMMUTING TO WORK,,,,,,
+    Workers Age 16 and Over,"409,375","±6,359","27,412","±2,763","381,963","±6,864"
+"        Car, truck, or van - drove alone",83.70%,±1.2,79.00%,±4.6,84.00%,±1.2
+"        Car, truck, or van - carpooled",8.50%,±0.9,10.60%,±3.7,8.30%,±0.9
+        Public transportation (excluding taxicab),1.50%,±0.4,4.30%,±2.3,1.30%,±0.4
+        Walked,1.70%,±0.5,0.90%,±0.7,1.80%,±0.5
+"        Taxicab, motorcycle, bicycle, or other means",1.50%,±0.3,2.40%,±1.3,1.50%,±0.4
+        Worked at home,3.10%,±0.4,2.90%,±1.4,3.10%,±0.4
+EDUCATIONAL ATTAINMENT,,,,,,
+    Population Age 25 and Over,"550,308","±3,640","96,554","±4,602","453,754","±5,640"
+        Less than high school graduate,12.80%,±0.8,21.40%,±2.4,11.00%,±0.8
+        High school graduate (includes equivalency),28.10%,±1.1,35.50%,±2.3,26.50%,±1.2
+        Some college or associate's degree,28.70%,±1.0,28.40%,±2.8,28.80%,±1.1
+        Bachelor's degree or higher,30.40%,±1.1,14.70%,±2.0,33.70%,±1.2
+EARNINGS IN PAST 12 MONTHS (IN 2016 INFLATION ADJUSTED DOLLARS),,,,,,
+    Population Age 16 and over with earnings,"451,512","±5,980","32,870","±2,964","418,642","±6,448"
+"        $1 to $4,999 or loss",9.00%,±0.8,12.60%,±2.9,8.70%,±0.9
+"        $5,000 to $14,999",15.00%,±1.1,24.70%,±5.9,14.30%,±1.1
+"        $15,000 to $24,999",16.60%,±1.2,16.20%,±3.6,16.60%,±1.2
+"        $25,000 to $34,999",15.80%,±1.0,13.20%,±3.9,16.00%,±1.1
+"        $35,000 to $49,999",17.30%,±0.9,14.50%,±3.4,17.50%,±1.0
+"        $50,000 to $74,999",14.70%,±0.9,10.40%,±3.0,15.00%,±0.9
+"        $75,000 or more",11.70%,±0.8,8.40%,±3.0,11.90%,±0.9
+Median Earnings,"30,586",±450,"22,490","±4,077","30,924",±440
+POVERTY STATUS IN THE PAST 12 MONTHS,,,,,,
+    Population Age 16 and over for whom poverty status is determined,"647,459","±4,605","105,388","±5,148","542,071","±6,560"
+        Below 100 percent of the poverty level,15.80%,±1.0,24.00%,±2.7,14.20%,±1.0
+        100 to 149 percent of the poverty level,9.60%,±1.1,12.90%,±2.2,8.90%,±1.1
+        At or above 150 percent of the poverty level,74.60%,±1.3,63.10%,±3.3,76.80%,±1.2
